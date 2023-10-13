@@ -14,7 +14,7 @@
 - 📫 How to reach me **thombarejayesh001@gmail.com**
 
 
-<h3 align="left">Connect with me:**https://www.linkedin.com/in/jayesh-thombare-473771189/** </h3>
+<h3 align="left">Connect with me:** https://www.linkedin.com/in/jayesh-thombare-473771189/ ** </h3>
 <p align="left">
 </p>
 
