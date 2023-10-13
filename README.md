@@ -12,9 +12,9 @@
 - 💬 Ask me about **HTML5,CSS3,JS**
 
 - 📫 How to reach me **thombarejayesh001@gmail.com**
-- 📫 Connect- **https://www.linkedin.com/in/jayesh-thombare-473771189/**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:**https://www.linkedin.com/in/jayesh-thombare-473771189/** </h3>
 <p align="left">
 </p>
 
