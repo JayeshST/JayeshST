@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://jayeshthombare.netlify.app](jayeshthombare.netlify.app)
+- 👨‍💻 All of my projects are available at jayeshthombare.netlify.app
 
 - 💬 Ask me about **HTML5,CSS3,JS**
 
