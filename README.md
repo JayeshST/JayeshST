@@ -18,9 +18,7 @@
 
 <h3 align="left">Languages and Tools: 🛠</h3>
 <p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" width="40" height="40"/> </a> 
- <a href="#" target="_blank" rel="noreferrer"> <img src=" <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" width="40" height="40"/> </a>" alt="Spring-Boot" width="40" height="40"/> </a>
- <a href="#" target="_blank" rel="noreferrer"> <img src="[https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png](https://devstyler.io/wp-content/uploads/sites/3/2021/05/rest-from-java-thumbnail.png)" alt="REST API" width="40" height="40"/> </a>
- <a href="#" target="_blank" rel="noreferrer"> <img src="[https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png)" alt="Node js" width="40" height="40"/> </a>
+
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" width="40" height="40"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" width="40" height="40"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" width="40" height="40"/> </a>
