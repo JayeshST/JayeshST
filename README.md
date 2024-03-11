@@ -17,9 +17,8 @@
 </p>
 
 <h3 align="left">Languages and Tools: 🛠</h3>
-<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="40" height="40"/> </a> 
-   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vhv.rs/dpng/d/458-4589658_spring-framework-logo-spring-boot-png-transparent-png.png" alt="Spring Boot" width="40" height="40"/> </a> 
-      <a href="#" target="_blank" rel="noreferrer"> <img src="  https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" alt="Rest API" width="40" height="40"/> </a> 
+<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="[https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)" alt="Java" width="40" height="40"/> </a> 
+
 
 
 
