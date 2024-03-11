@@ -20,6 +20,10 @@
 <p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="40" height="40"/> </a> 
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUKbe3Vg5PJ4wpjlDUy-noAzkT0dqhknQR4TL86jNAKA&s" alt="Spring Boot" width="40" height="40"/> </a> 
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMCkCyKixbB54NLsg0sPIGF06yVks4fpf9XDGhEIBNew&s" alt="Rest API" width="40" height="40"/> </a> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="<a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMCkCyKixbB54NLsg0sPIGF06yVks4fpf9XDGhEIBNew&s" alt="Rest API" width="40" height="40"/> </a> " alt="HTML" width="40" height="40"/> </a> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMCkCyKixbB54NLsg0sPIGF06yVks4fpf9XDGhEIBNew&s](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png)" alt="CSS" width="40" height="40"/> </a> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMCkCyKixbB54NLsg0sPIGF06yVks4fpf9XDGhEIBNew&s](https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png)" alt="JS" width="40" height="40"/> </a> 
+   <a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMCkCyKixbB54NLsg0sPIGF06yVks4fpf9XDGhEIBNew&s" alt="Rest API" width="40" height="40"/> </a> 
 </p>
 
 
