@@ -18,9 +18,10 @@
 
 <h3 align="left">Languages and Tools: 🛠</h3>
 <p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" width="40" height="40"/> </a> 
+   <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" width="40" height="40"/> </a> 
+   <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" width="40" height="40"/> </a> 
 </p>
-<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" width="40" height="40"/> </a> 
-</p>
+
 
 
 
