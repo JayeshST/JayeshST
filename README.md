@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools: 🛠</h3>
-<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/731_java.jpg" alt="Java" width="40" height="40"/> </a> 
+<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/java1655.logowik.com.webp" alt="Java" width="40" height="40"/> </a> 
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUKbe3Vg5PJ4wpjlDUy-noAzkT0dqhknQR4TL86jNAKA&s" alt="Spring Boot" width="40" height="40"/> </a> 
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMCkCyKixbB54NLsg0sPIGF06yVks4fpf9XDGhEIBNew&s" alt="Rest API" width="40" height="40"/> </a> 
 </p>
