@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools: 🛠</h3>
-<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="[https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)" alt="Java" width="40" height="40"/> </a> 
+<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> 
 
 
 
