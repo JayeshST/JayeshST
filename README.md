@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java EE**
 
-- 👨‍💻 All of my projects are available at  https://jayesh-thombare.netlify.app
+- 👨‍💻 All of my projects are available at  https://jayeshthombare.vercel.app
 
 - 📫 How to reach me **thombarejayesh001@gmail.com**
 
