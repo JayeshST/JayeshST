@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at  https://jayeshthombare.vercel.app
 
-- 📫 How to reach me **thombarejayesh001@gmail.com**
+- 📫 How to reach me **projectsupport.jayesh@gmail.com**
 
 
 <h3 align="left">Connect with me: ⚡ https://www.linkedin.com/in/jayesh-thombare-473771189/  </h3>
